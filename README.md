@@ -1,6 +1,6 @@
 # BGP-SR Data Center on Arista EOS
 
-I was having trouble to find documentation on Arista's website on how to do BGP-SR. So, I decided to build a single protocol Data Center with EVPN-MPLS. BGP is used to distribute labels for MPLS and BGP is also used as overlay with EVPN.
+I was having trouble finding documentation on Arista's website on how to do BGP-SR. So, I decided to build a single protocol Data Center with EVPN-MPLS. BGP is used to distribute labels for MPLS and BGP is also used as overlay with EVPN.
 
 ---
 
